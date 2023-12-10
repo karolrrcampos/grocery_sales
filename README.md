@@ -24,7 +24,7 @@ Contribuições são bem-vindas! Se você deseja adicionar novos exemplos, corri
 
 ## Licença
 
-Este projeto é licenciado sob a [Licença MIT](LICENSE.md).
+Este projeto é licenciado sob a [Licença MIT](LICENSE).
 
 ## Contato
 
