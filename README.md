@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/J4qfGGPz5YA8zEKBDM/giphy.gif" width="200"/>
+ </div>
+
+---
 # Análise de Lucros e Volume de Vendas
 
 ## Descrição
