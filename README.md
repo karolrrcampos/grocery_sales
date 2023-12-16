@@ -21,7 +21,7 @@ O repositório está organizado nas seguintes seções:
 
 ## Como Usar
 
-Você pode explorar o conteúdo deste repositório para aprender com os códigos e projetos apresentados. Os códigos em MySQL estão disponíveis para fins de aprendizado e referência. Sinta-se à vontade para fazer fork deste repositório e usá-lo como base para seus próprios projetos ou para continuar o desafio em sua própria jornada de aprendizado.
+Você pode explorar o conteúdo deste repositório para aprender com os códigos e projetos apresentados. Os códigos em SQL estão disponíveis para fins de aprendizado e referência. Sinta-se à vontade para fazer fork deste repositório e usá-lo como base para seus próprios projetos ou para continuar o desafio em sua própria jornada de aprendizado.
 
 ## Contribuições
 
